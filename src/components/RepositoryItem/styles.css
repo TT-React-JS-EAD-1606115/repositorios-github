@@ -1,0 +1,16 @@
+.repo-link {
+  text-decoration: none;
+  color: #4493f8;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.description {
+  font-size: 16px;
+  margin-top: 0.5rem;
+}
+
+hr {
+  margin: 2rem 0;
+  border: 1px solid rgb(66, 66, 86);
+}
